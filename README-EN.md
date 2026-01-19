@@ -1,6 +1,10 @@
-# Lightweight Network Security Model
+# csic2010-Security-Model
+
+## Lightweight Network Security Model
 
 This is a lightweight model for network security, designed to help developers test their security products.
+
+[中文文档](README.md) | [English](README-EN.md)
 
 ## Project Introduction
 
